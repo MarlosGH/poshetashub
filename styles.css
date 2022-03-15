@@ -1,0 +1,27 @@
+body{
+	margin: 0;
+    padding: 0;
+    background: black;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.portada{
+    width: 1366px;
+    height: 125px;
+    position: relative;
+    left: 0px;
+    background: orange;
+    
+}
+
+.foto1{
+    width: 230px;
+    height: 200px;
+    position: relative;
+    left: 10px;
+    top: 50px;
+    
+    
+}
