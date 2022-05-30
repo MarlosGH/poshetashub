@@ -1,20 +1,45 @@
-.portada{
-    width: 1366px;
-    height: 125px;
-    position: relative;
-    left  0px;
-    background: orange;
-    
-}
-
-.foto1{
-    width: 230px;
-    height: 200px;
-    position: relative;
-    left: 10px;
-    top: 50px;
-    
-    
+*{
+    margin: 0px;
+    padding: 0px;
 }
 
 
+
+body{
+    background-color: #ff55f1
+    width: 320px;
+    height: 420px;
+    max-width: 400px;
+}
+
+
+.contenedor{
+    margin: auto
+    witdh: 490px;
+    margin-top: 200px;
+    text-align:center ;
+}
+
+img{
+     position:relative;
+       width: 200px ; 
+       right: 50px ;
+       left: 13px ;
+}
+
+
+
+.titulo{
+    margin-botton: 5px ;
+    text-align:center ;
+    width: 500px ;
+
+
+}
+
+
+.opciones p{
+     margin: auto;
+    background: black;
+}
+    
