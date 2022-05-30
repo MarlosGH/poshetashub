@@ -1,42 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
+ <!DOCTYPE html>
+<html lang="es">
 <head>
-	     <meta charset="UTF-8">
-        <title>Quieres ser mi nv? </title>
-        <meta meta="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-        <link rel="stylesheet href="styles.css">
-        <script> src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-        <script>
-            $(document).ready.(function(){
-                $('.p1).hover(function(){
-                    arriba = Math.random()*(400-1) +1;
-                    abajo= Math.random() * (609-1) +1;
-                  $(this).css('top', arriba);
-                  $(this).css('left', abajo);
-                });
-            });
-        function dijoSi(){
-
-    document.getElementById('si').style.display = 'block';
-}
-        </script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Declaración</title>
+    <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
- 
 
-        <div class="contedenor">
-        <h1> 😅😍 Quieres ser mi nv? </h1>
-        <img src"amour-love.gif" alt=""></img>
-        </div>
-        <div class="opciones">
-           <p class="p1">No</p>
-           <p onclick="DijoSi()" class="p2">Si</p>
-        <div id="si">
-            <h2> La quiero Domenak <3 </h2>
-        </div>
+    <div class="contenedor">
+        <p>¿Quieres ser mi Novia?</p>
+        <button id="yesBtn">Si</button>
+        <button id="noBtn">No</button>
     </div>
-</div>
-
+    <script src="index.js"></script>
 
 </body>
 </html>
