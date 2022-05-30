@@ -59,3 +59,35 @@ p.p1{
 
 
     }
+
+p.p1:hover{
+    background: #ff153f;
+    cursor: pointer;
+
+
+    }
+
+p.p2{
+    position: absolute;
+    top: 400px;
+    left: 300px;
+    width: 80px;
+    text-align: 
+}
+p.p2-hover{
+    background: green;
+    cursor: pointer;
+    text-align:center;
+}
+#si{
+    background: #ff001f;
+
+    left: 20px;
+    position: absolute;
+    top: 500px;
+    width: 430px;
+    color: #red;
+    padding: 10px;
+    display: none;
+    border-radius: 2%;
+}
