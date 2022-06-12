@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Se le quiere Domenak uwu')
+    alert(':3')
 });
 
 const noBtn = document.querySelector('#noBtn');
