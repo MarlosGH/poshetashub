@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('No volver a pasar :b')
+    alert('No volvera a pasar mi bb fiu fiu <3')
 });
 
 const noBtn = document.querySelector('#noBtn');
