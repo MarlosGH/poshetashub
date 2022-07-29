@@ -1,0 +1,157 @@
+.contenedor_cabeza_index{
+  position: relative;
+  width: 718px;
+  padding: 50px;
+  right: 30px;
+  top: -10px;
+  background: #2C2B2B
+}
+
+.titulo_principal_index{
+  position: relative;
+  top: -100px;
+  color: white;
+  left: 290px;
+}
+
+.contenedor_decoration_index{
+  background: #363434;
+  position: relative;
+  top: -95px;
+  width: 738px;
+  padding: 30px;
+  right: 10px;
+}
+
+.imagen_principal_index{
+  position: relative;
+  top: -95px;
+  right: 8px;
+  width: 796px;
+}
+
+.titulo_contenedor_deco_index{
+  position: relative; 
+  top: -560px;
+  color: gray;
+  left: 270px;
+}
+
+.imagen_diamantes_index{
+  width: 50px;
+  position: relative;
+  top: -615px;
+  left: 210px;
+}
+
+.imagen_diamantes2_index{
+  width: 50px;
+  position: relative;
+  top: -615px;
+  left: 470px;
+}  
+
+.Services_index{
+  position: relative;
+  width: 468px;
+  padding: 180px;
+  right: 40px;
+  top: -218px;
+  background: #363434;
+  
+}
+
+.Servicios_titulo_index{
+  color: white;
+  position: relative;
+  top: -160px;
+  left: 130px;
+  border: white;
+}
+
+.modpacks_index_decoration{
+  position: relative;
+  border: 3px solid #5c5454;
+  width: 300px;
+  top: -120px;
+  border-radius: 10px;
+  background: #292525;
+  left: -50px;
+}
+.logo_modpack_index{
+  position: relative;
+  width: 40px;
+  top: -10px;
+  left: 90px;
+  color: #f7f0f0;
+}
+
+.titulo_modpacks_index{
+  position: relative;
+  left: 60px;
+  top: -5px;
+  color: #f7f0f0
+}
+
+.Descripcion_modpacks_index{
+  position: relative;
+  color: #ccc4c4;
+  left: 18px;
+  top: -10px;
+}
+
+.Descripcion_modpacks_index2{
+  position: relative;
+  top: -24px;
+  left: 18px;
+  color: #ccc4c4;
+}
+
+.Descripcion_modpacks_index3{
+  position: relative;
+  top: -37px;
+  left: 57px;
+  color: #ccc4c4;
+}
+
+.Boton_modpacks_index{
+  position: relative;
+  top: -30px;
+  left: 50px;
+  width: 200px;
+  padding: 4px;
+  background: #f7f0f0;
+  border-radius: 6px;
+}
+
+.mods_index_decoration{
+  position: relative;
+  border: 3px solid #5c5454;
+  top: -488px;
+  border-radius: 10px;
+  background: #292525;
+  left: 280px;
+  padding: 140px;
+  width: 10px;
+}
+
+.titulo_mods_index{
+  color: #f7f0f0;
+  position: relative;
+  top: -150px;
+  left: -40px;
+  
+}
+
+.imagen_logo_mod_index{
+  position: relative;
+  width: 180px;
+  color: #f3f0f0;
+  top: -155px;
+  left: -60px;
+}
+
+.descripcion_mod_index{
+  position: relative;
+  top: -180px;
+}
