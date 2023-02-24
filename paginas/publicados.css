@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #eee7e7;
+    background-color: #f1f1f1;
 }
 .header{
     width: 98%;
@@ -44,6 +44,7 @@ body{
     background: none;
 }
 #publicaciones_{
+    display: inline-block;
     margin: 30px;
 }
 .publicaciones-modpack{
@@ -51,6 +52,8 @@ body{
     border: 2px solid black;
     border-radius: 5px;
     margin: 10px;
+    margin-right: 30px;
+    display: inline-block;
 }
 .bannerPi{
     width: 100%;
