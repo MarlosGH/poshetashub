@@ -3,4 +3,4 @@ document.querySelector(".button").addEventListener("click", (e) =>{
 })
 document.querySelector(".btn-inicio").addEventListener("click", (e) =>{
         window.location.href = "../index.html";
-    })
+})
